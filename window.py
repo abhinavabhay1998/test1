@@ -6,10 +6,7 @@
 
 
 
-
-w = Tk() # inbilt method to create a window 
-w.mainloop()'''
-
+fk;gjskrgjs
 
 
 
